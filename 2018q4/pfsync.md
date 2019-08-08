@@ -1,6 +1,6 @@
 ## pfsync performance improvement ##
-Contact: Kristof Provost <kp@freebsd.org>
-Link:	 None
+
+Contact: Kristof Provost, <kp@freebsd.org>
 
 While pf itself can operate on multiple states simultaneously
 (on different cores), pfsync could not. It used a single PFSYNC_LOCK.
@@ -22,4 +22,4 @@ pfsync test case was added.
 
 This was committed into head in r341646, and later merged into stable/12 and stable/11.
 
-The work was sponsored by Orange Business Services.
+Sponsor: Orange Business Services
