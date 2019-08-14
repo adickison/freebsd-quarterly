@@ -15,7 +15,7 @@ We help facilitate collaboration between commercial users and FreeBSD developers
 
 
 ### Fundraising Efforts ###
-Our work is 100% funded by your donations.We are grateful for the generous donations from Intel, NetApp, VMware and Stormshield last quarter. We are working hard to get more commercial users to give back to help us continue our work supporting FreeBSD. More importantly, we’d like to thank our individual donors, for making $10-$1,000 donations last quarter, for a total of $16,000! 
+Our work is 100% funded by your donations. We are grateful for the generous donations from Intel, NetApp, VMware and Stormshield last quarter. We are working hard to get more commercial users to give back to help us continue our work supporting FreeBSD. More importantly, we’d like to thank our individual donors, for making $10-$1,000 donations last quarter, for a total of $16,000! 
 
 Please consider making a donation to help us continue and increase our support for FreeBSD: https://www.FreeBSDfoundation.org/donate/.
 
@@ -61,11 +61,11 @@ Check out some of the advocacy and education work we did last quarter:
 * Represented FreeBSD at HKOSCON
 * Attended the Berlin FreeBSD Developers Summit
 * Presented at 2019 Comcast Labs Connect Open Source Conference
-* Sponsored, Presented and represented FreeBSD at RootConf 2019 in Bangalore, India
+* Sponsored, presented and represented FreeBSD at RootConf 2019 in Bangalore, India
 * Committed to attend OSCON, and All Things Open
 * Committed to sponsor and help organize a Bay Area Developers Summit
 * Provided FreeBSD advocacy material
-* Provided travel grants to FreeBSD contributors to attend many of the above events.
+* Provided travel grants to FreeBSD contributors to attend many of the above events
 
 We continued producing FreeBSD advocacy material to help people promote FreeBSD around the world.
 
